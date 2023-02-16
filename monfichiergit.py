@@ -8,3 +8,4 @@ print("git push -u origin main")            # pour envoyer les modifications à 
 
 print("git status")                         # pour voir le statut 
 
+print("pull rquest ?")
