@@ -72,3 +72,5 @@ Les étapes du cycle de développement :
 - validation de la pull request 
 - suppression de la branche ( si plus besoin d'elle) 
 - on recommence le cycle
+
+- on teste
